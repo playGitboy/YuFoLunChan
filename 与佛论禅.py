@@ -1,6 +1,8 @@
 # !/usr/bin/env python3
 # pip3 install pycryptodome py7zr -i https://pypi.tuna.tsinghua.edu.cn/simple
 # 源码参见 https://github.com/lersh/TudouCode/
+# 代码更新 https://github.com/playGitboy/foYu.py/edit/main/%E4%B8%8E%E4%BD%9B%E8%AE%BA%E7%A6%85.py
+
 from Crypto.Cipher import AES
 from re import split
 from py7zr import SevenZipFile
